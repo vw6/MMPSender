@@ -1,0 +1,22 @@
+{
+  "settings": [
+    {
+      "MyName":"Admin <admin@vw6.ru>",
+      "Login":"example_ligin", 
+      "Password":"example_Password",
+      "FilePath":"/patch/to/file/sendmail",
+      "FileMask":"*",
+      "LastTimeAccessFile":"-10",
+      "MailSubject": "Test",
+      "MailBody": "<h1>qwe</h1><p>asd</p>",
+      "serverSmtp": "example.server.com",
+      "Port": "25"
+    }
+  ],
+  "users": [
+    {
+      "name": "user1",
+      "MailTo": "proshin@vw6.ru"
+    }
+  ]
+}
