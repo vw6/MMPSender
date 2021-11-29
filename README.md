@@ -1,6 +1,6 @@
 # MMPSender
 
-This is a small script for mass mailing: postcards, invoices, gifts, etc.
+This is a small script for mass mailing mail: postcards, invoices, gifts, etc.
 
 Supports sending only fresh files, no older than, for example, N days.
 
