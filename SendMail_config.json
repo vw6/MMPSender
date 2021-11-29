@@ -16,7 +16,11 @@
   "users": [
     {
       "name": "user1",
-      "MailTo": "proshin@vw6.ru"
-    }
+      "MailTo": "proshin1@vw6.ru"
+    },
+    {
+      "name": "user2",
+      "MailTo": "proshin2@vw6.ru"
+    }   
   ]
 }
