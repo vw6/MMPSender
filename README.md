@@ -1,5 +1,7 @@
 # MMPSender
 
+## ENG
+
 This is a small script for mass mailing mail: postcards, invoices, gifts, etc.
 
 Supports sending only fresh files, no older than, for example, N days.
@@ -9,6 +11,8 @@ An unlimited number of destinations can be used.
 The addressees are pre-registered in the configuration file. If you need to send files to users, check the user's folder along the path you specified in the FileMask block.
 
 Please do not use it for spam submissions.
+
+## RUS
 
 Это небольшой скрипт для массовой рассылки почты: открыток, счетов-фактур, подарков и т. Д.
 
